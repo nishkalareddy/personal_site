@@ -1,0 +1,71 @@
+body{
+  text-align: center;
+  margin: 0;
+  background-color:#E8F6EF;
+  }
+h2{
+  color:#4C4C6D;
+  font-family:'Yellowtail',cursive;
+  font-size:50px;
+  width:50%;
+}
+h3{
+  color:#4C4C6D;
+  font-family:'Yellowtail',cursive;
+  font-size:20px;
+  width: 50%;
+}
+.vikh{
+  color:#4C4C6D;
+  font-family:'Yellowtail',cursive;
+  padding-left: 150px;
+  font-size:70px;
+}
+.shan{
+  height:350px;
+  width:350px;
+  border-radius:350px;
+  float:right;
+  font-size:60px;
+}
+.san{
+  font-size: 30px;
+  padding-left: 150px;
+}
+.chan{
+  width:90%;
+  line-height: 20px;
+  padding-top: 40px;
+}
+a{
+  text-decoration: none;
+  color: #4C4C6D;
+  font-family:'Yellowtail',cursive;
+  padding: 20px;
+  font-size:30px;
+}
+a:hover{
+  color:#F05454;
+}
+.info{
+  padding-bottom:70px;
+  padding-top:45px;
+}
+.nish{
+  color: #4C4C6D;
+  font-family:'Yellowtail',cursive;
+  font-size:20px;
+  text-align: left;
+  line-height: 40px;
+}
+.cat{
+  padding-left: 30px;
+}
+.about{
+  color: #4C4C6D;
+  font-family:'Yellowtail',cursive;
+  font-size: 25px;
+  width:1100px;
+  padding-left:100px;
+  text-align: left;
+}
